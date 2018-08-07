@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/RLWB/nodejs-travis-ci.svg?branch=master)](https://travis-ci.com/RLWB/nodejs-travis-ci)
